@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keyzonBooks/static/css/main.7faf9d5a.css",
+    "main.js": "/keyzonBooks/static/js/main.4543fa3c.js",
+    "index.html": "/keyzonBooks/index.html",
+    "main.7faf9d5a.css.map": "/keyzonBooks/static/css/main.7faf9d5a.css.map",
+    "main.4543fa3c.js.map": "/keyzonBooks/static/js/main.4543fa3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7faf9d5a.css",
+    "static/js/main.4543fa3c.js"
+  ]
+}
