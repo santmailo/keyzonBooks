@@ -1,7 +1,7 @@
 {
   "name": "keyzone_book_store",
   "version": "0.1.0",
-  "homepage": "https://santmailo.github.io/keyzonBooks",
+  "homepage": "https://santmailo.github.io/keyzonBooks/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
